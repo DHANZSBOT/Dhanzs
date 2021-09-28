@@ -1,7 +1,7 @@
 {
-  "name": "wabot-aq",
+  "name": "DhanzsBot",
   "version": "2.5.1",
-  "description": "Customizable WhatsApp Bot",
+  "description": "Customizable Dhanzs Bot",
   "depecrated": false,
   "main": "index.js",
   "directories": {
